@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+mix-manifest.json
+web/css/styles.css.map
+mix.js.map
